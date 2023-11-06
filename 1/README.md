@@ -1,2 +1,2 @@
-# pragmatic-programmers-exercises
-All 57 exercises from Brian P. Hogan's book, Exercises for Programmers.
+# Saying Hello
+Prompts for your name and greets you with a friendly message.
